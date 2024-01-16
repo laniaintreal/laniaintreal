@@ -1,0 +1,10 @@
+import streamlit as st
+
+# Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
+st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
+
+# ---- HEADER SECTION ----
+st.subheader("Hi, I am Al Ain :wave:")
+st.title("A University Student from Pehonix")
+st.write("I am passionate about learning ways to utilize Python and other coding languages to aid me in my acedemic and professional career.")
+st.write("[Learn More >](https://www.tiktok.com/@laniaintreal?_t+8j4AQTxrDXK&_r=1)")
